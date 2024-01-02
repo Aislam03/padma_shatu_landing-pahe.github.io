@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 940px;
+}
+.carousel-item img{
+    height: 415px;
+}
+
+
+.logo{
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    
+}
+.bdlogo{
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    
+}
+.nav-item{
+       border-right: 1px solid rgb(77, 77, 77);
+}
+.main_menu ul li:hover{
+
+    background-color: rgb(186, 9, 9);
+}
+.hero_part h3{
+    text-align: center;
+    margin-top: 20px;
+}
+.card img{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 130px;
+    top: -50px;
+}
+.container_photo{
+    margin-top: 70px;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.container_event{
+    margin-top: 70px;
+    text-align:;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.footer{
+    color: aliceblue;
+    margin-top: 30px;
+    background-color: rgba(30, 30, 30, 0.814);
+}
+.ft_right ul li a{
+  
+    text-decoration: none;
+}
+.ft_right ul li a :hover{
+    background-color: black;
+}
+
+
